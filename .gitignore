@@ -1,0 +1,46 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vscode/
+*.vs/
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.exp
+*.usertype.dat
+*.generated.cs
+
+# Resharper
+_resharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Test files
+*.TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
